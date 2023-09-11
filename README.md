@@ -4,4 +4,4 @@ So Basically it can Differentiate between Different Types of Bottled waste like 
 It is the most Basic Prototype and will use different architecture for the actual job.
 The rawimgs is the training dataset and the test is the test dataset
 Clone this to your pc (if you want to implement)
-Two example images are given for new prediction(note- can only predict among this 4 sets & not a probability model)
+Two example images are given for new prediction(note- can only predict among this 4 sets(or classes) & not a probability model)
